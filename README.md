@@ -25,7 +25,7 @@ This portfolio serves as a showcase of my skills, projects, and contact details.
 
 ## 📩 Contact Me
 - **Email:** harshitakp.123@gmail.com
-- **GitHub:** [github.com/harshitakp.123](https://github.com/harshitakp.123)
+- **GitHub:** [github.com/Harshita-Kashyap](https://github.com/Harshita-Kashyap)
 
 ---
 Excited to keep learning and improving! 🌟
